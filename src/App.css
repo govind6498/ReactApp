@@ -7,3 +7,10 @@ img{
   margin: 0 auto;
   width: 25%;
 }
+div{
+  text-align: center;
+  text-transform: capitalize;
+}
+img:hover{
+  cursor: pointer;
+}
